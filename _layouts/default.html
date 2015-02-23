@@ -1,9 +1,13 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ca" lang="ca">
 
   {% include head.html %}
 
-  <body class="theme-base-0a {% if page.category == 'mur' %}mur{% endif %}{% if page.category == 'mur-diari' or page.title == 'Aportacions' %}mur-diari{% endif %}">
+  <body unresolved class="theme-base-0a {% if page.category == 'mur' %}mur{% endif %}{% if page.category == 'mur-diari' or page.title == 'Aportacions' %}mur-diari{% endif %}">
 
     {% include sidebar.html %}
 
@@ -34,32 +38,5 @@
       </p>
       </div>
     </footer>
-    {% include footer-css-js.html %}
-
-    {% if page.title == 'Aportacions' %}
-      <script src="/public/js/simpleCart.min.js"></script>
-      <script>
-        simpleCart({
-          currency:'EUR',
-          language:'catalan',
-          cartStyle:'table',
-          cartColumns     : [
-              { attr: "name", label: "Aportació" },
-              { attr: "price", label: "Preu", view: 'currency' },
-              { view: "decrement", label: false },
-              { attr: "quantity", label: "Quantitat" },
-              { view: "increment", label: false },
-              { attr: "total", label: "SubTotal", view: 'currency' },
-              { view: "remove", text: "Esborra <span class='glyphicon glyphicon-remove'></span>", label: false }
-            ],
-          checkout: {
-            type: "PayPal",
-            email: "info@artinpocket.cat",
-            success: '{{ site.url }}/success.html',
-            cancel: '{{ site.url }}/cancel.html'
-          }
-        });
-      </script>
-    {% endif %}
   </body>
 </html>
