@@ -1,0 +1,22 @@
+---
+layout: default
+title: Home
+---
+
+<div class="posts">
+  {% for post in site.categories.home limit: 1 %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+      {% if post.category == 'mecenes' %}<span class="gu">- mecenes</span>{% endif %}{% if post.category == 'patrocinadors' %}<span class="gu">- patrocinadors</span>{% endif %}
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+  {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+

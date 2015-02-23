@@ -1,0 +1,47 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+
+excerpt_separator: <!--more-->
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            artinpocket/inversa
+tagline:          Obrim persianes
+description:      Bloc del Verkami <a href="http://www.artinpocket.cat" target="_blank">Inveresa</a>. Inversa et dóna l'oportunitat de ser mecenes i promotor de l'art i et permet comprar una peça d'art a un preu immillorable. Creat per <a href="http://www.oxygen.cat/" target="_blank">Oxygen.cat</a>.
+url:              https://www.inversa.cat
+
+author:
+  name:           'Ramon Gil'
+  url:            https://twitter.com/freecates
+
+paginate:         8
+paginate_path:    "blog/page:num"
+
+# Custom vars
+version:          1.0.0
+
+verkami:
+  repo:           http://www.verkami.com/projects/11057-inversa-obrim-persianes
+
+twitter-sentence: "| Apadrina #Inversa, jo ja ho he fet"
+
+assets: 
+  baseurl: /public/
+
+# Prose
+prose:
+  rooturl: ''
+  siteurl: 'https://www.inversa.cat/'
+  media: 'public/img'
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+          value: ""
+
