@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<div class="post">
-  <h1 class="post-title">{{ page.title }} {% if page.category == 'mecenes' %}<span class="gu">- <a href="/mecenes/">mecenes</a></span>{% endif %} {% if page.category == 'patrocinadors' %}<span class="gu">- <a href="/patrocinadors/">patrocinadors</a></span>{% endif %}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+<div itemscope itemtype="http://schema.org/Article" class="post">
+  <h1 itemprop="name" class="post-title">{{ page.title }} {% if page.category == 'mecenes' %}<span class="gu">- <a href="/mecenes/">mecenes</a></span>{% endif %} {% if page.category == 'patrocinadors' %}<span class="gu">- <a href="/patrocinadors/">patrocinadors</a></span>{% endif %}</h1>
+  <p class="post-date"><span itemprop="datePublished" content="{{ page.date }}">{{ page.date | date_to_string }}</span> | <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ site.author.name }}</span></span></p>
   {% if page.category == 'mecenes' or page.category == 'patrocinadors' %}
-    {{ content }}
+    <span itemprop="articleBody">{{ content }}</span>
     <p><small><i class="fa fa-heart"></i> Apadrina <a href="https://twitter.com/search?q=%23inversa&src=typd&f=realtime">#Inversa</a>, obrim persianes. Jo ha ho he fet &ndash; <i class="fa fa-credit-card"></i> <a href="/aportacions/">Fes-la teva aportació</a></small></p>
   {% else if %}
   <hr />
   <p><small><i class="fa fa-heart"></i> Apadrina <a href="https://twitter.com/search?q=%23inversa&src=typd&f=realtime">#Inversa</a>. Obrim persianes &ndash; <i class="fa fa-credit-card"></i> <a href="/aportacions/">Fes-la teva aportació</a></small></p>
   <hr />
-  {{ content }}
+  <span itemprop="articleBody">{{ content }}</span>
   <hr />
   <p><small><i class="fa fa-heart"></i> Apadrina <a href="https://twitter.com/search?q=%23inversa&src=typd&f=realtime">#Inversa</a>. Obrim persianes &ndash; <i class="fa fa-credit-card"></i> <a href="/aportacions/">Fes-la teva aportació</a></small></p>
   <hr />
