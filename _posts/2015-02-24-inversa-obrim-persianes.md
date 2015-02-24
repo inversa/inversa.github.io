@@ -1,6 +1,10 @@
 ---
 layout: post
+og: true
+og-type: article
 title: "Inversa - Obrim persianes"
+featured_src: "/public/img/00-verkami-inversa-obrim-persianes-artinpocket.jpg"
+description: "Davant la necessitat de trobar espais expositius, per mostrar el treball dels artistes i fer-lo accessible i obert a tothom Artinpocket ha desenvolupat Inversa. Inversa neix amb l’objectiu d’obrir i potenciar nous canals d’exposició, promoció i venta d’art contemporani i ho fa aprofitant la potencialitat els mitjans  en línia i el micromecenatge."
 share: true
 categories:
   - general
