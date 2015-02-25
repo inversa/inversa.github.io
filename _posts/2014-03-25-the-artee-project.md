@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Centre Easy
+title: The Artee Project
 category: patrocinadors
 share: true
 ---
 
 <figure class="text-center">
-	<img src="/public/img/centre-easy-patrocinadors-inversa.jpg" alt="Centre Easy - patrocinadors d'inversa" title="Centre Easy - patrocinadors d'inversa">
+	<img src="/public/img/the-artee-project-patrocinadors-inversa.jpg" alt="The Artee Project - patrocinadors d'inversa" title="The Artee Project - patrocinadors d'inversa">
 	<figcaption>
-		<p><small><i class="fa fa-external-link"></i> <a href="http://ca.easyinnova.com/" title="Centre Easy">Centre Easy</a></small></p>
+		<p><small><i class="fa fa-external-link"></i> <a href="http://thearteeproject.com/" title="The Artee Project">The Artee Project</a></small></p>
 	</figcaption>
 </figure>
