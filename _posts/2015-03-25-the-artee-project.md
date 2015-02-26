@@ -1,6 +1,10 @@
 ---
 layout: post
 title: The Artee Project
+og: true
+og-type: article
+featured_src: "/public/img/the-artee-project-patrocinadors-inversa.png"
+description: "The Artee Project"
 category: patrocinadors
 share: true
 ---
