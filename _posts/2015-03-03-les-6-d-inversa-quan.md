@@ -19,6 +19,8 @@ published: true
 	</figcaption>
 </figure>
 
-Des del passat **24 de febrer fins el 5 de abril**, qualsevol persona pot convertir-se en mecenes i promotor d’art. Només fa falta anar a [Inversa](http://www.verkami.com/projects/11057-inversa-obrim-persianes) i aportar allò que es cregui necessari. Allò realment bo d’aquest sistema és que, si t’agrada l’art en concret i la cultura en general, **no fa falta que gastis una quantitat ingent de diners**. **[Artinpocket](http://www.artinpocket.cat/)** ha ideat unes recompenses ajustades a les butxaques de qualsevol persona.
+Des del passat **24 de febrer fins el 5 de abril**, qualsevol persona pot convertir-se en mecenes i promotor d’art. Només fa falta anar a [Inversa](http://www.verkami.com/projects/11057-inversa-obrim-persianes) i aportar allò que es cregui necessari. Allò realment bo d’aquest sistema és que, si t’agrada l’art en concret i la cultura en general, **no fa falta que gastis una quantitat ingent de diners**. **[Artinpocket](http://www.artinpocket.cat/)** ha ideat unes recompenses ajustades a les butxaques de qualsevol persona. 
+
+<!--more-->
 
 Si s’arriba a la quantitat estimada, aquests diners aniran destinats als **honoraris dels artistes i per a les despeses de crear una exposició** que veurà la llum al mes de juny d’aquest 2015.
