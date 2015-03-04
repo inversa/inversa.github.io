@@ -8,7 +8,7 @@ share: true
 <figure class="text-center">
 	<img src="/public/img/02-verkami-inversa-obrim-persianes-artinpocket-9euros.jpg" alt="Aportació de 9 euros - mecenes d'inversa" title="Aportació de 9 euros - mecenes d'inversa">
 	<figcaption>
-		<p><small><i class="fa fa-credit-card"></i> <a href="http://www.verkami.com/projects/11057-inversa-obrim-persianes" title="Aporta 9 euros - mecenes d'inversa">Aporta 9 euros - mecenes d'inversa</a></small></p>
+		<p><small><i class="fa fa-credit-card"></i> <a href="http://www.verkami.com/projects/11057-inversa-obrim-persianes/contribute/select/72344/login" title="Aporta 9 euros - mecenes d'inversa">Aporta 9 euros - mecenes d'inversa</a></small></p>
 	</figcaption>
 </figure>
 
