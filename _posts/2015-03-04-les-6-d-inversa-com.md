@@ -15,7 +15,7 @@ published: true
 <figure class="text-center">
 	<img src="/public/img/07-verkami-inversa-obrim-persianes-artinpocket-gina.jpg" alt="Aportació de 20 euros - mecenes d'inversa" title="Aportació de 20 euros - mecenes d'inversa">
 	<figcaption>
-		<p><small><i class="fa fa-credit-card"></i> <a href="http://www.verkami.com/projects/11057-inversa-obrim-persianes" title="Aporta 20 euros - mecenes d'inversa">Aporta 20 euros - mecenes d'inversa</a></small></p>
+		<p><small><i class="fa fa-credit-card"></i> <a href="http://www.verkami.com/projects/11057-inversa-obrim-persianes/contribute/select/72340/login" title="Aporta 20 euros - mecenes d'inversa">Aporta 20 euros - mecenes d'inversa</a></small></p>
 	</figcaption>
 </figure>
 
