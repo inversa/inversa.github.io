@@ -17,8 +17,8 @@ icon:             Artinpocket_Icon_Pocket.png
 twitter:          artinpocket
 
 author:
-  name:           'Ramon Gil'
-  url:            https://twitter.com/freecates
+  name:           'Artinpocket'
+  url:            https://twitter.com/artinpocket
 
 paginate:         8
 paginate_path:    "blog/page:num"
