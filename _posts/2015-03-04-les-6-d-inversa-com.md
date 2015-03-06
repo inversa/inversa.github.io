@@ -4,7 +4,7 @@ og: true
 og-type: article
 title: "Les 6 d'Inversa: com?"
 featured_src: "/public/img/07-verkami-inversa-obrim-persianes-artinpocket-gina.jpg"
-description: "Des del passat 24 de febrer fins el 5 de abril, qualsevol persona pot convertir-se en mecenes i promotor d’art. Només fa falta anar a Inversa i aportar allò que es cregui necessari"
+description: "Pots ajudar que “Inversa, obrim persianes” arribi a bon port de dues maneres"
 share: true
 categories:
   - general

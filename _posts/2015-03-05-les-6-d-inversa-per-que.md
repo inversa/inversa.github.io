@@ -4,7 +4,7 @@ og: true
 og-type: article
 title: "Les 6 d'Inversa: per què?"
 featured_src: "/public/img/08-verkami-inversa-obrim-persianes-artinpocket-jordipages.jpg"
-description: "Des del passat 24 de febrer fins el 5 de abril, qualsevol persona pot convertir-se en mecenes i promotor d’art. Només fa falta anar a Inversa i aportar allò que es cregui necessari"
+description: "Les xarxes socials i el mecenatge et permeten, amb pocs recursos, la promoció i comercialització de l’art. D’aquesta manera, amb Inversa es pretén finançar propostes expositives en espais, a priori, fora dels circuits tradicionals."
 share: true
 categories:
   - general

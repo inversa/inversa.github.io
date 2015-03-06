@@ -3,7 +3,7 @@ layout: post
 og: true
 og-type: article
 title: "Les 6 d'Inversa: què?"
-featured_src: "/public/img/09-verkami-inversa-obrim-persianes-artinpocket-aurembaix.jpg"
+featured_src: "/public/img/02-verkami-inversa-obrim-persianes-artinpocket-9euros.jpg"
 description: "Artinpocket, empresa especialitzada en la gestió, en la difusió i en la venta d’art contemporani, ha desenvolupat el projecte Inversa, que neix amb l’objectiu de trobar espais expositius per poder presentar el treball dels artistes i, a la vegada, fer-lo accessible i obert per a tothom."
 share: true
 categories:
@@ -13,9 +13,9 @@ published: true
 ---
 
 <figure class="text-center">
-	<img src="/public/img/09-verkami-inversa-obrim-persianes-artinpocket-aurembaix.jpg" alt="Aportació de 9 euros - mecenes d'inversa" title="Aportació de 9 euros - mecenes d'inversa">
+	<img src="/public/img/02-verkami-inversa-obrim-persianes-artinpocket-9euros.jpg" alt="Aportació de 9 euros - mecenes d'inversa" title="Aportació de 9 euros - mecenes d'inversa">
 	<figcaption>
-		<p><small><i class="fa fa-credit-card"></i> <a href="http://www.verkami.com/projects/11057-inversa-obrim-persianes" title="Aporta 9 euros - mecenes d'inversa">Aporta 9 euros - mecenes d'inversa</a></small></p>
+		<p><small><i class="fa fa-credit-card"></i> <a href="http://www.verkami.com/projects/11057-inversa-obrim-persianes/contribute/select/72344/login" title="Aporta 9 euros - mecenes d'inversa">Aporta 9 euros - mecenes d'inversa</a></small></p>
 	</figcaption>
 </figure>
 
