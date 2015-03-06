@@ -4,7 +4,7 @@ og: true
 og-type: article
 title: "Les 6 d'Inversa: què?, quan?, com?, per què?, qui?, on?"
 featured_src: "/public/img/09-verkami-inversa-obrim-persianes-artinpocket-aurembaix.jpg"
-description: "Per a aquesta primera edició, si se arriba a la quantitat necessària, es podrà veure l’exposició col·lectiva a l’espai Art Port de la Selva de l’Hotel Porto Cristo (un edifici històric convertit en hotel en la dècada dels 60), totalment restaurat i equipat amb els millors serveis."
+description: "Anima’t, converteix-te en un mecenes i promotor d’art del segle XXI de la mà d’Artinpocket i el seu projecte de micromecenatge: Inversa."
 share: true
 categories:
   - general
