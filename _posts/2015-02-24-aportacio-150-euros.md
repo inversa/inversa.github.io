@@ -2,6 +2,10 @@
 layout: post
 title: Aportació de 150 euros
 category: aportacions
+og: true
+og-type: article
+featured_src: "/public/img/05-verkami-inversa-obrim-persianes-artinpocket-150euros.jpg"
+description: "Fitxa al nostre Mur dels mecenes (Foto-Nom i cognoms) + Aparició als crèdits de l'exposició + Entrada a la inauguració + Postal d’edició limitada 200 exemplars firmada pels tres artistes + Val 5€ per la compra d’obra al Portal Artinpocket + Cartell Inversa d'edició limitada especialment realitzat per l'ocasió + Elecció de 2 Gravats a escollir entre les tres propostes. (El valor dels gravats és 300€  oferta exclusiva mecenatge Verkami)."
 share: true
 ---
 
